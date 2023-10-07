@@ -1,0 +1,27 @@
+p:last-child, p:first-child{
+  background-color: rgb(209, 186, 157);
+}
+
+body{
+  background-color: blanchedalmond;
+}
+
+#masodik{
+  margin-left: 10px;
+  border-top: dotted black;
+  border-bottom: dashed blue;
+  border-left: solid yellow;
+  border-right: double darkgreen;
+}
+
+#harmadik{
+  border: 3px dotted red;
+  padding: 15px;
+}
+
+#negyedik{
+  background-image: url("../css/kep2.jpg");  
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}

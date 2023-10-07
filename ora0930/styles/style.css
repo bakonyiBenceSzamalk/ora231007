@@ -1,0 +1,25 @@
+table,
+td {
+  border: black 1px solid;
+  border-collapse: collapse;
+}
+
+body {
+  background-color: rgb(211, 211, 211);
+}
+
+#negyes {
+  background-color: red;
+}
+
+#nyolcas {
+  background-color: yellow;
+}
+
+.kek {
+  background-color: blue;
+}
+
+.zold {
+  background-color: green;
+}
